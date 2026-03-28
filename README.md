@@ -45,7 +45,7 @@ pip (Python package installer)
 
 Clone the repository
 
-git clone https://github.com/your-username/parking-system-flask.git
+git clone https://github.com/VinayakaPujar/parking-system-flask.git
 cd parking-system-flask
 
 
